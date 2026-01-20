@@ -12,6 +12,15 @@ Welcome to the **AI Agent Mastery** course, a comprehensive 30-hour training pro
 
 AI Agents are the next frontier in artificial intelligence. Unlike static models, agents can reason, plan, and interact with tools to achieve complex goals. This course covers everything from basic prompt engineering for agents to multi-agent orchestration using LangGraph.
 
+The course explores LangChain (Chains & Tools), LangGraph (Nodes & Edges), and Multi-Agent Orchestration (Supervisors & Workers).
+
+## 📄 Institutional Proposals
+This repository also contains professional training proposals tailored for university collaborations:
+- [Vels University Proposal](./proposals/vels_university_proposal.md) - 10-day intensive program (Weekdays).
+- [Sathyabama University Proposal](./proposals/sathyabama_university_proposal.md) - Specialized weekend track (Fri-Sat).
+
+## 🚀 Repository Structure
+
 ### 📚 Curriculum Structure
 
 1.  **[01-introduction-to-ai-agents](./01-introduction-to-ai-agents/)**: Foundations and Reasoning Loops.

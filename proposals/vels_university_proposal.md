@@ -2,44 +2,54 @@
 
 ![HERE AND NOW AI Logo](https://raw.githubusercontent.com/hereandnowai/images/refs/heads/main/logos/logo-of-here-and-now-ai.png)
 
-**To:** The Management / Department of Computer Science  
+**To:** The Dean / Head of Department  
 **Institution:** Vels Institute of Science, Technology & Advanced Studies (VISTAS)  
 **Presented by:** [HERE AND NOW AI](https://hereandnowai.com)  
 **Date:** January 21, 2026
 
 ---
 
-## 1. Program Overview
-This 30-hour comprehensive training program is designed to equip undergraduate students with the skills to build, orchestrate, and deploy state-of-the-art AI Agents. Using industry-leading frameworks like LangChain and LangGraph, students will transition from basic LLM interactions to building complex, autonomous multi-agent systems.
+## 1. Executive Summary
+In an era where static AI models are rapidly evolving into autonomous entities, the ability to build and manage **AI Agents** is becoming a critical skill for the next generation of software engineers. This 30-hour certification program, curated and delivered by **HERE AND NOW AI**, bridges the gap between traditional LLM usage and the development of intelligent, self-reasoning systems. Students will progress from foundational concepts to building a fully autonomous multi-agent swarm, ready for industry application.
 
-## 2. Schedule & Duration
-- **Total Duration:** 30 Hours (10 Days)
-- **Date Range:** February 2nd – February 13th, 2026 (Monday to Friday)
-- **Daily Timings:** 09:30 AM – 12:30 PM (3 Hours/Day)
-
-## 3. Curriculum Structure
-
-### Week 1: Foundations & Tiny Projects
-- **Day 1:** Introduction to AI Agents & Reasoning Loops (ReAct).
-- **Day 2:** The Ecosystem: LangChain, LangGraph, CrewAI, and AutoGen.
-- **Day 3:** LangChain Essentials: Prompting, Tool Calling, and Simple Chains.
-- **Day 4-5:** LangChain Lab: Building 10 "Tiny Projects" (Search, Math, SQL, etc.).
-
-### Week 2: Advanced State & Orchestration
-- **Day 6:** Introduction to LangGraph: State Management and Cycles.
-- **Day 7:** Advanced LangGraph: Persistence, Parallelism, and Human-in-the-Loop.
-- **Day 8:** LangGraph Lab: Building 10 "Tiny State Projects."
-- **Day 9:** Multi-Agent Systems: Hierarchical and Sequential Architectures.
-- **Day 10:** Capstone: Building an "Industry-Grade Market Research Strategy Swarm."
-
-## 4. Training Delivery
-The training will be delivered hands-on by **HERE AND NOW AI** experts. Every student will receive access to the GitHub repository: `hereandnowai/ai-agent-mastery`.
-
-## 5. Contact Information
-- **Website:** [hereandnowai.com](https://hereandnowai.com)
-- **Email:** info@hereandnowai.com
-- **Mobile:** +91 996 296 1000
-- **Slogan:** AI is Good
+## 2. Program Objectives
+- **Mastery of Reasoning Loops:** Moving beyond simple prompts to autonomous ReAct cycles.
+- **Framework Proficiency:** Hands-on experience with LangChain, LangGraph, CrewAI, and AutoGen.
+- **Stateful Engineering:** Learning to manage complex conversation states and long-term memory.
+- **Multi-Agent Coordination:** Designing teams of specialized agents that collaborate to solve massive tasks.
 
 ---
-*Empowering the next generation of AI Engineers.*
+
+## 3. Detailed Training Schedule (Feb 2nd – Feb 13th)
+
+| Day | Module | Topic & Hands-on Lab | Key Outcomes |
+| :--- | :--- | :--- | :--- |
+| **01** | **Foundations** | Evolution from LLMs to Agents; Reasoning Loops (ReAct) | Understand Agent brain logic |
+| **02** | **Ecosystem** | Framework Comparison: CrewAI, AutoGen, LangChain | Setup of `.venv` & dependencies |
+| **03** | **LangChain I** | Prompt Templates, Chains, and Basic Tool Calling | Control of LLM output flow |
+| **04** | **LangChain II** | **Tiny Projects Lab:** Google Search, SQL, & Math Agents | Real-world tool integration |
+| **05** | **LangChain III**| **Tiny Projects Lab:** Structured Output & Memory Management | Building robust, safe agents |
+| **06** | **LangGraph I** | Introduction to Stateful Graphs; Nodes and Edges | Mapping complex workflows |
+| **07** | **LangGraph II** | Implementing Cycles, Routing, and Conditional Logic | Dynamic execution paths |
+| **08** | **LangGraph III**| **Tiny Projects Lab:** Persistence & Human-in-the-Loop | Error correction & approval gates |
+| **09** | **Multi-Agent** | Hierarchical Teams & Sequential Orchestration | Collaborative AI design |
+| **10** | **Capstone** | **Industry-Grade Project:** Market Research Strategy Swarm | Deployment-ready system |
+
+---
+
+## 4. Why Partner with HERE AND NOW AI?
+We are not just trainers; we are builders. Our curriculum is derived from real-world projects we deploy for our clients. By the end of Day 10, every student will have a portfolio of **20+ unique AI Agent projects** hosted on their personal GitHub, significantly boosting their employability.
+
+### Technical Requirements
+- Basic Python knowledge (Introductory level).
+- Laptops with VS Code installed.
+- Internet connectivity for API access.
+
+## 5. Contact & Branding
+- **Website:** [hereandnowai.com](https://hereandnowai.com)
+- **Email:** info@hereandnowai.com
+- **Phone:** +91 996 296 1000
+- **Slogan:** *AI is Good*
+
+---
+*Empowering VISTAS students to lead the Agentic Revolution.*

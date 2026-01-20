@@ -2,46 +2,55 @@
 
 ![HERE AND NOW AI Logo](https://raw.githubusercontent.com/hereandnowai/images/refs/heads/main/logos/logo-of-here-and-now-ai.png)
 
-**To:** The Management / Department of Computer Science  
+**To:** The Management & Academic Council  
 **Institution:** Sathyabama Institute of Science and Technology  
 **Presented by:** [HERE AND NOW AI](https://hereandnowai.com)  
 **Date:** January 21, 2026
 
 ---
 
-## 1. Program Overview
-This intensive training program focuses on the transition from Large Language Models (LLMs) to **Autonomous AI Agents**. Designed for undergraduate students, the course provides a practical roadmap for building production-grade agentic workflows using LangChain and LangGraph.
+## 1. Program Vision
+The "AI Agent Mastery" workshop is an accelerated, high-impact training track designed to transition students from passive LLM users to active **Agentic Architects**. By focusing on the industry's most powerful frameworks—LangChain and LangGraph—we provide students at Sathyabama University with the exact tools used by elite AI labs globally to build autonomous workflows and collaborative agent swarms.
 
-## 2. Schedule & Duration
-- **Total Duration:** 30 Hours
-- **Date Range:** February 14th – February 28th, 2026
-- **Frequency:** Fridays & Saturdays only
-- **Daily Timings:** 09:00 AM – 03:15 PM (incl. Lunch Break)
+## 2. Intensive Workshop Schedule
 
-### Session Calendar:
-1. **Sat, Feb 14:** Module 1 & 2 (Introduction & LangChain Tiny Projects)
-2. **Fri, Feb 20:** Module 2 continued (Hands-on Lab)
-3. **Sat, Feb 21:** Module 3 (LangGraph & Stateful workflows)
-4. **Fri, Feb 27:** Module 3 continued (Complex Cycles & Persistence)
-5. **Sat, Feb 28:** Module 4 (Multi-Agent Swarms & Industry-Grade Project)
+| Date | Session (09:00 AM – 03:15 PM) | Deliverables & Lab Work |
+| :--- | :--- | :--- |
+| **Sat, Feb 14** | **Foundations & Modular Design** | Intro to Reasoning Loops; Tool Calling; LangChain Projects 1-5 |
+| **Fri, Feb 20** | **Advanced Chains & Memory** | Chat History; LLM-Math; LangChain Projects 6-10 |
+| **Sat, Feb 21** | **Stateful Graph Engineering** | LangGraph Dict-State; Nodes/Edges; Graph Projects 1-5 |
+| **Fri, Feb 27** | **Cycles & Human-in-the-Loop** | Dynamic Routing; Persistence; Graph Projects 6-10 |
+| **Sat, Feb 28** | **Collaborative Swarm Intelligence** | Tiny Multi-Agent Systems; **Capstone Project:** Industry Strategy Swarm |
 
-## 3. Key Learning Modules
-- **Modular AI:** Building extensible agents with LangChain.
-- **Stateful Intelligence:** Managing long-term memory and self-correction via LangGraph.
-- **Collaborative Systems:** Orchestrating multiple specialized agents (Researcher, Analyst, Auditor).
-- **Prototyping:** Rapid development of 20+ "Tiny Projects" (<20 lines of code).
+---
 
-## 4. Deliverables
-- Access to the curated codebase: `github.com/hereandnowai/ai-agent-mastery`.
-- Pre-configured `.venv` setup for students to jumpstart development.
-- Hands-on mentoring by **HERE AND NOW AI** lead trainers.
+## 3. Curriculum Deep-Dive
 
-## 5. About HERE AND NOW AI
-We specialize in bridging the gap between academic theory and industry implementation. Our slogan, **"AI is Good,"** reflects our commitment to ethical and powerful AI education.
+### Module 1: The Reasoning Loop
+We dissect the "Brain" of an agent. Students will build raw Python loops to understand how planning, execution, and observation create autonomy.
+
+### Module 2: Tool Integration (LangChain)
+Building a suite of 10 specialized agents. Students learn to ground LLMs in reality by connecting them to Google Search, SQL Databases, and Python Interpreters.
+
+### Module 3: State Management (LangGraph)
+Beyond linear chains. We teach students how to build graphs that can "think" iteratively, "loop" through problems, and "wait" for human approval on high-stakes tasks.
+
+### Module 4: Multi-Agent Capstone
+The program concludes with a massive project where 5+ specialized agents (Supervisor, Researcher, Analyst, Auditor) work together to generate complex market reports.
+
+---
+
+## 4. Deliverables for Students
+- **Full Access:** Individual GitHub repository access for all 22+ starting projects.
+- **Environment:** Automated Python `.venv` setup for instant coding.
+- **Support:** Direct interaction with lead trainers from **HERE AND NOW AI**.
+
+## 5. Contact & Institutional Branding
+**HERE AND NOW AI** is committed to excellence in AI education. We believe that **"AI is Good"** when it is accessible and built with precision.
 
 - **Website:** [hereandnowai.com](https://hereandnowai.com)
 - **Email:** info@hereandnowai.com
-- **Mobile:** +91 996 296 1000
+- **Contact:** +91 996 296 1000
 
 ---
-*Building the future of Intelligent Systems, one agent at a time.*
+*Architecting the future of Sathyabama's AI talent pool.*
