@@ -1,0 +1,26 @@
+9 am - 4 pm
+
+9-9:30 - introduction to ai agents
+kahoot - gamify - mcq
+1. what are ai, ml, dl?
+2. what is genai?
+3. what is an llm?
+4. what is rag?
+5. what is an agent?
+6. what is an ai agent?
+7. frameworks? - crewai, autogen, google-adk, openai-adk, langchain, langgraph
+
+9:30-10
+plan a
+environment setup - vs code, python, ollama 3.12+, model gemma3-270m, function-gemma-270m, requirements.txt
+introduction to ai agents & frameworks (what is a framework?):
+1. autogen - conversation based
+2. crewai - hierarchy based
+3. openai - simple
+4. google-adk - 
+5. langchain - chain based
+6. langgraph - state-graph based 
+
+
+
+plan b - google colab

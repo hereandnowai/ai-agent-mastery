@@ -46,8 +46,24 @@ There is no single "best" framework.
 
 ## 📁 Folder Contents
 
+### 🤖 Framework Chatbot Examples (Ollama/Gemma 3)
+We have implemented 6 specialized chatbots using different industry frameworks, all powered by `gemma3:270m` served via Ollama:
+
+1.  **01_autogen_chatbot.py**: Conversation-based multi-agent pattern from Microsoft.
+2.  **02_crewai_chatbot.py**: Role-playing, hierarchy-based task execution.
+3.  **03_openai_chatbot.py**: Simple SDK usage via Ollama's OpenAI-compatible layer.
+4.  **04_google_adk_chatbot.py**: Raw API interaction style using HTTP requests.
+5.  **05_langchain_chatbot.py**: Chain-based logic using LangChain Expression Language (LCEL).
+6.  **06_langgraph_chatbot.py**: Stateful, graph-based autonomy.
+
+---
+
+### 📂 Legacy Examples
 - `langchain_example.py`: A basic LangChain tool-calling agent.
 - `langgraph_example.py`: A simple stateful graph agent.
+- `crewai_example.py`: Introduction to CrewAI.
+- `autogen_example.py`: Introduction to Microsoft AutoGen.
+- `hello_agent.py`: Initial LLM connectivity test.
 - `crewai_example.py`: A multi-agent "Manager/Worker" demonstration.
 - `autogen_example.py`: A conversational coding agent example.
 

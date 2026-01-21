@@ -10,3 +10,6 @@ sqlalchemy>=2.0.0
 flask>=3.0.0
 crewai
 pyautogen
+langchain-ollama
+openai
+google-generativeai
