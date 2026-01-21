@@ -14,7 +14,7 @@ In an era where static AI models are rapidly evolving into autonomous entities, 
 
 ## 2. Program Objectives
 - **Mastery of Reasoning Loops:** Moving beyond simple prompts to autonomous ReAct cycles.
-- **Framework Proficiency:** Hands-on experience with LangChain, LangGraph, CrewAI, and AutoGen.
+- **Framework Proficiency:** Hands-on experience with LangChain and LangGraph.
 - **Stateful Engineering:** Learning to manage complex conversation states and long-term memory.
 - **Multi-Agent Coordination:** Designing teams of specialized agents that collaborate to solve massive tasks.
 
@@ -25,14 +25,14 @@ In an era where static AI models are rapidly evolving into autonomous entities, 
 | Day | Module | Topic & Hands-on Lab | Key Outcomes |
 | :--- | :--- | :--- | :--- |
 | **01** | **Foundations** | Evolution from LLMs to Agents; Reasoning Loops (ReAct) | Understand Agent brain logic |
-| **02** | **Ecosystem** | Framework Comparison: CrewAI, AutoGen, LangChain | Setup of `.venv` & dependencies |
+| **02** | **Ecosystem** | Setting Up the AI Developer Stack (Ollama, Python, VS Code) | Setup of `.venv` & dependencies |
 | **03** | **LangChain I** | Prompt Templates, Chains, and Basic Tool Calling | Control of LLM output flow |
 | **04** | **LangChain II** | **Tiny Projects Lab:** Google Search, SQL, & Math Agents | Real-world tool integration |
 | **05** | **LangChain III**| **Tiny Projects Lab:** Structured Output & Memory Management | Building robust, safe agents |
 | **06** | **LangGraph I** | Introduction to Stateful Graphs; Nodes and Edges | Mapping complex workflows |
 | **07** | **LangGraph II** | Implementing Cycles, Routing, and Conditional Logic | Dynamic execution paths |
 | **08** | **LangGraph III**| **Tiny Projects Lab:** Persistence & Human-in-the-Loop | Error correction & approval gates |
-| **09** | **Multi-Agent** | Hierarchical Teams & Sequential Orchestration | Collaborative AI design |
+| **09** | **Multi-Agent** | Hierarchical Teams & Sequential Orchestration with LangGraph | Collaborative AI design |
 | **10** | **Capstone** | **Industry-Grade Project:** Market Research Strategy Swarm | Deployment-ready system |
 
 ---

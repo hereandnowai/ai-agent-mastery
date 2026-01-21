@@ -6,7 +6,7 @@ from langchain_ollama import ChatOllama
 class State(TypedDict):
     content: str
 
-llm = ChatOllama(model="gemma3:270m")
+llm = ChatOllama(model="gemma3:1b")
 
 def call_model(state: State):
     res = llm.invoke(state["content"])
@@ -18,5 +18,13 @@ builder.add_edge(START, "chatbot")
 builder.add_edge("chatbot", END)
 
 graph = builder.compile()
-response = graph.invoke({"content": "Hi from LangGraph!"})
-print(response["content"])
+
+print("LangGraph Chatbot (Type 'exit' to quit)")
+while True:
+    user_input = input("You: ")
+    if user_input.lower() in ["exit", "quit", "bye"]:
+        print("Goodbye!")
+        break
+        
+    response = graph.invoke({"content": user_input})
+    print(f"AI: {response['content']}")

@@ -4,12 +4,9 @@ langchain-community>=0.1.0
 langgraph>=0.0.30
 tavily-python>=0.3.0
 python-dotenv>=1.0.0
+langchain-ollama
+langchain-google-genai
 pytest>=8.0.0
 pandas>=2.0.0
 sqlalchemy>=2.0.0
 flask>=3.0.0
-crewai
-pyautogen
-langchain-ollama
-openai
-google-generativeai

@@ -10,7 +10,7 @@ kahoot - gamify - mcq
 6. what is an ai agent?
 7. frameworks? - crewai, autogen, google-adk, openai-adk, langchain, langgraph
 
-9:30-10
+9:30-10 am
 plan a
 environment setup - vs code, python, ollama 3.12+, model gemma3-270m, function-gemma-270m, requirements.txt
 introduction to ai agents & frameworks (what is a framework?):
@@ -21,6 +21,25 @@ introduction to ai agents & frameworks (what is a framework?):
 5. langchain - chain based
 6. langgraph - state-graph based 
 
+hands-on langchain and langgraph
+
+10-10:30 am
+hands-on - introduction
+1. langchain - chat-agent without memory
+2. langchain - chat-agent with memory
+3. chat-agent with gradio - ui
+4. rag-agent - text, pdf, web, image, vector
+5. search-agent
+6. coding-agent
+7.
+8.
+9.
+10.
+
+
+
+
+3. langchain - chatbot with memory
 
 
 plan b - google colab
