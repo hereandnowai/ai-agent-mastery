@@ -18,6 +18,7 @@ The course explores LangChain (Chains & Tools), LangGraph (Nodes & Edges), and M
 This repository also contains professional training proposals tailored for university collaborations:
 - [Vels University Proposal](./proposals/vels_university_proposal.md) - 10-day intensive program (Weekdays).
 - [Sathyabama University Proposal](./proposals/sathyabama_university_proposal.md) - Specialized weekend track (Fri-Sat).
+- [Sairam SIT Teaching Plan](./proposals/sairam_teaching_plan.md) - 12-hour Fast-Track Impact Plan.
 
 ## 🚀 Repository Structure
 
