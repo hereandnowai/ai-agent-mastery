@@ -1,4 +1,4 @@
 from langchain_core.messages import HumanMessage, AIMessage
-from langchain_openai import ChatOpenAI
+from langchain_ollama import ChatOllama
 messages = [HumanMessage(content="Hi"), AIMessage(content="Hello!")]
-print(ChatOpenAI().invoke(messages + [HumanMessage(content="How are you?")]).content)
+print(ChatOllama(model="gemma3:270m").invoke(messages + [HumanMessage(content="How are you?")]).content)

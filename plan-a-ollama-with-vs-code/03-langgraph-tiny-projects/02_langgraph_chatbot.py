@@ -6,7 +6,7 @@ from langchain_ollama import ChatOllama
 class State(TypedDict):
     content: str
 
-llm = ChatOllama(model="gemma3:1b")
+llm = ChatOllama(model="gemma3:270m")
 
 def call_model(state: State):
     res = llm.invoke(state["content"])

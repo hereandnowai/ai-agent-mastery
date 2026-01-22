@@ -1,6 +1,6 @@
 import operator
 from typing import Annotated, TypedDict, List
-from langchain_openai import ChatOpenAI
+from langchain_ollama import ChatOllama
 from langgraph.graph import StateGraph, START, END
 
 class TeamState(TypedDict):
@@ -8,7 +8,7 @@ class TeamState(TypedDict):
     reports: Annotated[List[str], operator.add]
     next_step: str
 
-llm = ChatOpenAI(model="gpt-4o")
+llm = ChatOllama(model="gemma3:270m")
 
 def analyst(state: TeamState):
     res = llm.invoke(f"Analyze this: {state['task']}")
