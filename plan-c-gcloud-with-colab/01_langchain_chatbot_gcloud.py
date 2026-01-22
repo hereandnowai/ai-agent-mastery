@@ -1,15 +1,14 @@
 
-from google.colab import userdata
 import os
-os.environ["GOOGLE_API_KEY"] = userdata.get("GOOGLE_API_KEY")
-import os
+try:
+    from google.colab import userdata
+    os.environ["GOOGLE_API_KEY"] = userdata.get("GOOGLE_API_KEY")
+except ImportError:
+    from dotenv import load_dotenv
+    load_dotenv()
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
-
-from google.colab import userdata
-import os
-os.environ["GOOGLE_API_KEY"] = userdata.get("GOOGLE_API_KEY")
 
 # LangChain (Chain-based)
 # Google Gemini/Gemma integration
